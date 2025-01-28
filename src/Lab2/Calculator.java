@@ -1,4 +1,4 @@
-package Lab1;
+package Lab2;
 import java.util.Scanner;
 
 public class Calculator {
@@ -30,5 +30,8 @@ public class Calculator {
         }
         System.out.println("Ваш ответ - " + ans);
         return ans;
+    }
+    public void Method(){
+
     }
 }
