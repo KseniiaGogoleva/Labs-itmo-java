@@ -31,7 +31,5 @@ public class Calculator {
         System.out.println("Ваш ответ - " + ans);
         return ans;
     }
-    public void Method(){
 
-    }
 }
